@@ -1,0 +1,9 @@
+
+
+java:S1192
+"GDefine a constant instead of duplicating this literal "yellow" 3 times.(•§¹äøÿÿÿÿ8´†öÎ2J$334abee8-6e74-44c1-ac88-1e16b2177a65
+r
+java:S1066&"/Merge this if statement with the enclosing one.(“Ç®8´†öÎ2J$80a52daa-e3da-4dba-bb08-aef2239ad424
+˜	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÉó°úÿÿÿÿ8´†öÎ2J$81967222-15dc-40b5-bceb-20fa7a9eaa62
+’	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·õ˜'8´†öÎ2J$ad0ac3e1-bbdd-4a16-a5f5-b7655091d788
+r	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ø€‰öÎ2J$c4f404ce-58d0-442f-8ddb-44b8facc8aea
